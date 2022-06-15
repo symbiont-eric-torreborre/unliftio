@@ -23,8 +23,6 @@ extra-source-files:
 library
   exposed-modules:
       Control.Monad.IO.Unlift
-  other-modules:
-      Paths_unliftio_core
   hs-source-dirs:
       src
   build-depends:
